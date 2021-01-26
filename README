@@ -1,0 +1,3 @@
+- pastikan module php untuk curl nya telah aktif
+- simpan kedalam document root
+- kemudian akses http://127.0.0.1/bds-anggie-septian/index.php/api/v1
